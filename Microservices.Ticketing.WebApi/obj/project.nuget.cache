@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fckTq1adXuUfxWP2SVUlq6yKji0ToBPsEnYG6npG5FIHw/PzR34T0AkBFlrq3YjVMnfH4GE8IEW6D5iGyf6MZw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\tuto\\Microservices\\Microservices.Ticketing.WebApi\\Microservices.Ticketing.WebApi\\Microservices.Ticketing.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgarc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

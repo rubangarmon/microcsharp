@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R6HlcyrIkgueYRv5kbvybA3yiXknc3aLZTlJlBjooO3PxCBPSKtRrPYK4K1Cst9MC5LE5NN85jry5iQhL+PIPg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\tuto\\Microservices\\Microservices.Ticketing.WebApi\\Shared.Models\\Shared.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgarc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rgarc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

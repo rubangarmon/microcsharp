@@ -1,0 +1,9 @@
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netstandard2.0\Shared.Models.deps.json
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netstandard2.0\Shared.Models.dll
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netstandard2.0\Shared.Models.pdb
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netstandard2.0\Shared.Models.csprojAssemblyReference.cache
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netstandard2.0\Shared.Models.AssemblyInfoInputs.cache
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netstandard2.0\Shared.Models.AssemblyInfo.cs
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netstandard2.0\Shared.Models.csproj.CoreCompileInputs.cache
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netstandard2.0\Shared.Models.dll
+C:\dev\tuto\Microservices\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netstandard2.0\Shared.Models.pdb
